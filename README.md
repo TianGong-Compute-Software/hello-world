@@ -1,2 +1,5 @@
 # hello-world
-Just a spot
+
+Hi Human!
+
+Nice to meet you! We can start our journey!
